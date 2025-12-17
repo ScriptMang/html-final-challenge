@@ -82,4 +82,5 @@ Write them down here:
 - The connect image is missing an alt attribute description.
 - The done button isn't clear it should be changed to submit.
 - Font-size is defined in pixels.  
+- The lang attribute was not set to 'en' for english in html tag.
 */

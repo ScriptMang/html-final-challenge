@@ -42,7 +42,7 @@ body, .contact-input, .contact-textarea  {
     margin: 5px auto 15px;
     border-radius: 20px;
     padding: 8px 20px;
-    font-size: 16px;
+    font-size: 1rem;
     border: 2px solid #333333;
 }
 .contact-textarea {

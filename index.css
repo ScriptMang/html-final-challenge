@@ -79,5 +79,6 @@ Write them down here:
 - The text area is missing an id attribute.
 - The text area is missing a matching label.
 - The submit button is missing an aria-label describing the submit button.
-- The connect image is missing an alt attribute description. 
+- The connect image is missing an alt attribute description.
+- The done button isn't clear it should be changed to submit. 
 */
